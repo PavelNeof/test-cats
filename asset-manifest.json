@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-cats/static/css/main.be02554c.css",
+    "main.js": "/test-cats/static/js/main.0ec18f2b.js",
+    "static/media/Cat.png": "/test-cats/static/media/Cat.a8a5787ae5acc695c211.png",
+    "static/media/Pattern.png": "/test-cats/static/media/Pattern.7858f3d0f9b100e9018a.png",
+    "index.html": "/test-cats/index.html",
+    "main.be02554c.css.map": "/test-cats/static/css/main.be02554c.css.map",
+    "main.0ec18f2b.js.map": "/test-cats/static/js/main.0ec18f2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be02554c.css",
+    "static/js/main.0ec18f2b.js"
+  ]
+}
